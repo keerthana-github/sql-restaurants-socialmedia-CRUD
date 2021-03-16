@@ -1,0 +1,1001 @@
+id,category,name,price_tier,neighborhood,opening_hours,average_rating,good_for_kids
+1,American,"Wolff, Miller and Rogahn",$,STATEN ISLAND,07:00,5,TRUE
+2,Desserts,Kulas Group,$,MANHATTAN,01:00,3,TRUE
+3,Japanese,Gottlieb and Sons,$$$,STATEN ISLAND,00:00,1,TRUE
+4,Desserts,Ondricka-Green,$$,STATEN ISLAND,03:00,4,FALSE
+5,Indian,"D'Amore, Watsica and Gislason",$$$,BRONX,14:00,4,FALSE
+6,Vegan,Bogisich Inc,$$,STATEN ISLAND,21:00,3,FALSE
+7,Italian,Kling Inc,$,BRONX,04:00,3,TRUE
+8,Chinese,Goyette Group,$,STATEN ISLAND,00:00,2,TRUE
+9,Korean,Simonis-Gerhold,$$$,MANHATTAN,03:00,4,FALSE
+10,Fast Food,Dicki and Sons,$,BRONX,06:00,3,FALSE
+11,Mexican,Carter Group,$$$,BRONX,17:00,4,FALSE
+12,Italian,"Dietrich, Romaguera and Waters",$$,BROOKLYN,01:00,5,FALSE
+13,Desserts,"Dickens, Schoen and Hane",$,QUEENS,13:00,1,TRUE
+14,Fast Food,"Macejkovic, Braun and Abshire",$$,BRONX,06:00,5,TRUE
+15,American,Parisian Inc,$$,BRONX,04:00,5,FALSE
+16,Italian,"Erdman, Jones and Ankunding",$,MANHATTAN,07:00,1,TRUE
+17,Korean,Schimmel Inc,$$,BRONX,07:00,2,FALSE
+18,Italian,Sawayn Inc,$$,QUEENS,18:00,1,TRUE
+19,American,"Collins, Mohr and Blanda",$$$,MANHATTAN,09:00,2,TRUE
+20,Breakfast,Reichel-Zulauf,$,MANHATTAN,14:00,3,FALSE
+21,Korean,Kuvalis-Beer,$$$,STATEN ISLAND,01:00,3,FALSE
+22,Korean,Ziemann-Goldner,$$,BROOKLYN,09:00,2,TRUE
+23,Indian,Hand and Sons,$$$,MANHATTAN,05:00,2,TRUE
+24,Chinese,Klocko Group,$$,BROOKLYN,16:00,5,TRUE
+25,Mexican,Watsica-Smitham,$$,MANHATTAN,11:00,0,FALSE
+26,Vegan,Kemmer-Zieme,$,QUEENS,03:00,0,FALSE
+27,Thai,Gibson and Sons,$,STATEN ISLAND,07:00,0,FALSE
+28,Breakfast,Farrell Group,$$$,STATEN ISLAND,01:00,5,TRUE
+29,Indian,Corwin LLC,$,BROOKLYN,22:00,2,TRUE
+30,Mexican,Mayert and Sons,$$,QUEENS,23:00,5,FALSE
+31,Vegan,"Cremin, Nitzsche and Adams",$$,MANHATTAN,05:00,3,TRUE
+32,Mexican,Keebler Group,$,STATEN ISLAND,21:00,2,TRUE
+33,Indian,"Nienow, Moore and Boyle",$$$,QUEENS,17:00,1,TRUE
+34,Breakfast,"Boyle, Osinski and Weber",$$$,BROOKLYN,13:00,2,TRUE
+35,Desserts,"Wiegand, Collier and Moen",$,BROOKLYN,09:00,0,FALSE
+36,Japanese,Cremin-Torp,$$$,STATEN ISLAND,11:00,3,FALSE
+37,Indian,Graham LLC,$,BROOKLYN,06:00,1,TRUE
+38,Japanese,Beahan-Willms,$$$,BRONX,18:00,4,TRUE
+39,Mexican,"Homenick, Littel and Hand",$,BRONX,18:00,2,TRUE
+40,Fast Food,Medhurst Inc,$,BROOKLYN,18:00,4,TRUE
+41,Desserts,Kautzer-Cormier,$,BRONX,06:00,5,TRUE
+42,Vegan,Murphy Group,$$$,MANHATTAN,07:00,5,TRUE
+43,American,"Deckow, Strosin and Windler",$,MANHATTAN,06:00,1,TRUE
+44,Chinese,Hills Inc,$,BRONX,02:00,0,TRUE
+45,Indian,"Borer, Lesch and Sporer",$$,MANHATTAN,08:00,0,FALSE
+46,Fast Food,Mosciski-Zemlak,$$,BROOKLYN,17:00,5,FALSE
+47,Thai,Abshire-Rath,$,MANHATTAN,04:00,3,TRUE
+48,Vegan,Lebsack Inc,$,MANHATTAN,15:00,2,TRUE
+49,American,McKenzie LLC,$$$,MANHATTAN,23:00,1,TRUE
+50,Korean,Ondricka-Reinger,$$$,BROOKLYN,05:00,5,FALSE
+51,Breakfast,Ferry-Bashirian,$$,QUEENS,23:00,1,TRUE
+52,Fast Food,Quitzon LLC,$$$,STATEN ISLAND,12:00,2,FALSE
+53,Vegan,Hilll LLC,$$,MANHATTAN,02:00,1,TRUE
+54,Breakfast,"Walker, Streich and Toy",$$,BRONX,00:00,2,TRUE
+55,Chinese,"Gerhold, Kutch and Hickle",$,QUEENS,20:00,5,FALSE
+56,Breakfast,"Schmitt, Legros and Becker",$,BROOKLYN,11:00,0,TRUE
+57,Mexican,Rodriguez-Barrows,$$$,STATEN ISLAND,23:00,0,TRUE
+58,Fast Food,Gutkowski-Wiza,$,BROOKLYN,15:00,3,TRUE
+59,American,"Kris, Kuhlman and Stroman",$$,BROOKLYN,04:00,4,TRUE
+60,American,"Klocko, Schultz and Howell",$,QUEENS,03:00,5,FALSE
+61,Korean,Johnson and Sons,$,QUEENS,11:00,0,TRUE
+62,Chinese,Adams and Sons,$$,BRONX,17:00,0,FALSE
+63,Chinese,Rice-McClure,$$,STATEN ISLAND,00:00,1,TRUE
+64,Italian,Swift-Goldner,$$$,MANHATTAN,16:00,0,FALSE
+65,Indian,"Christiansen, Brekke and Herzog",$$$,STATEN ISLAND,19:00,2,TRUE
+66,Thai,Gibson-Carroll,$$$,QUEENS,22:00,0,FALSE
+67,Vegan,Jerde-Schinner,$,BRONX,15:00,1,TRUE
+68,Japanese,"Fisher, Dach and Kreiger",$$,BROOKLYN,03:00,2,FALSE
+69,Japanese,"Quigley, Dach and Dach",$$,BRONX,07:00,2,FALSE
+70,Mexican,Price-Wilderman,$,STATEN ISLAND,22:00,1,FALSE
+71,Korean,"Gibson, Herman and Robel",$$,MANHATTAN,08:00,5,TRUE
+72,Desserts,Kovacek LLC,$,QUEENS,01:00,1,TRUE
+73,Japanese,McGlynn-Upton,$,BROOKLYN,18:00,4,TRUE
+74,Vegan,King Group,$,BRONX,22:00,0,TRUE
+75,Indian,"Schultz, Zieme and Hauck",$$$,BRONX,01:00,1,FALSE
+76,Italian,Kerluke-Mitchell,$$,BRONX,12:00,0,FALSE
+77,Fast Food,Rath-Baumbach,$$,MANHATTAN,17:00,0,FALSE
+78,Desserts,Carroll-Schowalter,$$,BRONX,16:00,4,TRUE
+79,Mexican,"Schroeder, Dibbert and Hagenes",$,BRONX,03:00,0,FALSE
+80,Italian,"Heathcote, Marquardt and Gusikowski",$,QUEENS,19:00,3,FALSE
+81,Japanese,Romaguera-Witting,$,BRONX,12:00,4,TRUE
+82,Italian,"Nikolaus, Sawayn and Hilll",$$$,STATEN ISLAND,03:00,0,FALSE
+83,Breakfast,Graham and Sons,$,STATEN ISLAND,13:00,3,TRUE
+84,Thai,"Bergstrom, Bruen and Kiehn",$$$,QUEENS,18:00,0,TRUE
+85,Fast Food,Kuvalis Inc,$,BRONX,13:00,5,FALSE
+86,American,"Weissnat, Vandervort and Friesen",$,STATEN ISLAND,12:00,4,FALSE
+87,Fast Food,"Zieme, Williamson and Rohan",$,MANHATTAN,20:00,2,TRUE
+88,Japanese,Lakin and Sons,$,BRONX,11:00,4,FALSE
+89,Breakfast,Feest LLC,$,BROOKLYN,22:00,0,FALSE
+90,Fast Food,Prohaska-Purdy,$,MANHATTAN,03:00,1,TRUE
+91,Italian,Schmeler-Kunde,$$$,STATEN ISLAND,13:00,4,FALSE
+92,Vegan,Klein-Olson,$$,QUEENS,05:00,4,FALSE
+93,Chinese,"Trantow, Crooks and Hessel",$$$,MANHATTAN,01:00,0,TRUE
+94,Vegan,"Klein, Bruen and Reichel",$,STATEN ISLAND,04:00,0,TRUE
+95,Breakfast,Homenick-Gusikowski,$$,STATEN ISLAND,07:00,1,FALSE
+96,Indian,Funk-Ullrich,$$$,STATEN ISLAND,11:00,1,TRUE
+97,Thai,Dooley and Sons,$$$,BRONX,13:00,5,FALSE
+98,Chinese,Stiedemann-Johns,$$$,BRONX,14:00,5,FALSE
+99,Thai,Mraz Group,$$$,MANHATTAN,08:00,1,TRUE
+100,Breakfast,Altenwerth-Hermann,$$,STATEN ISLAND,05:00,3,FALSE
+101,Mexican,"O'Kon, Nicolas and Beatty",$,STATEN ISLAND,03:00,1,FALSE
+102,Italian,Effertz-Lindgren,$$,MANHATTAN,19:00,4,FALSE
+103,Indian,Carroll-Gibson,$$$,BRONX,14:00,5,TRUE
+104,Japanese,Pagac-Farrell,$$$,BRONX,05:00,4,TRUE
+105,Fast Food,Lehner-Hoeger,$$$,BROOKLYN,01:00,5,TRUE
+106,Mexican,"Hilpert, Hyatt and Crist",$$,STATEN ISLAND,10:00,3,FALSE
+107,Thai,Hoeger-Ankunding,$$,BROOKLYN,07:00,3,FALSE
+108,Italian,Swaniawski Inc,$$,BROOKLYN,05:00,5,FALSE
+109,Japanese,VonRueden-Pollich,$$$,MANHATTAN,21:00,3,FALSE
+110,Mexican,Christiansen-Miller,$$$,BRONX,07:00,0,FALSE
+111,Indian,Deckow-Gleichner,$,BRONX,16:00,0,FALSE
+112,Japanese,Stark-Bosco,$$,QUEENS,11:00,1,FALSE
+113,Thai,Lueilwitz LLC,$$,QUEENS,20:00,4,TRUE
+114,Desserts,"Waters, Watsica and Lehner",$$$,STATEN ISLAND,15:00,2,FALSE
+115,Indian,Stehr-Parisian,$$$,BRONX,12:00,1,TRUE
+116,Desserts,Blanda Inc,$$$,BRONX,13:00,0,TRUE
+117,Desserts,Kris-Hettinger,$$,QUEENS,02:00,4,TRUE
+118,Mexican,"Brekke, Schumm and Orn",$$,STATEN ISLAND,21:00,1,FALSE
+119,American,Koelpin-Conroy,$,QUEENS,07:00,3,TRUE
+120,Mexican,Wiegand and Sons,$$,STATEN ISLAND,14:00,5,TRUE
+121,Desserts,"Skiles, Ernser and Pagac",$,BROOKLYN,05:00,0,FALSE
+122,Italian,"McLaughlin, Boyer and Gerlach",$$,BROOKLYN,00:00,2,TRUE
+123,Breakfast,Bauch and Sons,$$$,STATEN ISLAND,14:00,1,TRUE
+124,Thai,Cruickshank-Harris,$,BRONX,01:00,1,TRUE
+125,Japanese,Hayes-Upton,$$$,BROOKLYN,16:00,2,TRUE
+126,Japanese,Blick LLC,$$$,QUEENS,07:00,4,FALSE
+127,Chinese,Stamm Group,$,BROOKLYN,05:00,3,FALSE
+128,Chinese,Pouros LLC,$$$,STATEN ISLAND,18:00,4,TRUE
+129,Korean,"West, O'Reilly and O'Reilly",$$$,STATEN ISLAND,15:00,0,FALSE
+130,Thai,Reilly Group,$$,STATEN ISLAND,16:00,3,TRUE
+131,Italian,Heaney and Sons,$$,MANHATTAN,16:00,2,FALSE
+132,Indian,Lowe-Rutherford,$,BRONX,21:00,0,TRUE
+133,Chinese,"Corwin, Carroll and Johnson",$$,BROOKLYN,07:00,5,TRUE
+134,Japanese,Cole-Swift,$,STATEN ISLAND,11:00,0,TRUE
+135,Italian,Turner-Corwin,$,MANHATTAN,07:00,3,FALSE
+136,Vegan,"Windler, Jenkins and Weissnat",$$,MANHATTAN,17:00,0,FALSE
+137,Thai,"Bartell, O'Kon and Streich",$$,QUEENS,05:00,2,FALSE
+138,Japanese,Murphy LLC,$$$,STATEN ISLAND,23:00,4,FALSE
+139,Fast Food,Eichmann-Stroman,$,MANHATTAN,15:00,0,FALSE
+140,Korean,"O'Hara, Barrows and Braun",$$$,STATEN ISLAND,08:00,3,FALSE
+141,Thai,Anderson Group,$$$,BRONX,15:00,5,TRUE
+142,Italian,Gibson-Jacobson,$$$,STATEN ISLAND,06:00,4,FALSE
+143,American,Brakus-Cole,$$$,STATEN ISLAND,12:00,2,TRUE
+144,Italian,"Bauch, Schamberger and Altenwerth",$,MANHATTAN,14:00,1,FALSE
+145,Mexican,Hegmann-Swaniawski,$$,BRONX,14:00,2,FALSE
+146,Italian,"Kunde, Koch and Senger",$$$,QUEENS,10:00,5,TRUE
+147,Japanese,Cartwright Inc,$,BRONX,19:00,0,TRUE
+148,Mexican,"Koelpin, Adams and Bogan",$$,BROOKLYN,16:00,2,FALSE
+149,Korean,Pfeffer Group,$$,BROOKLYN,14:00,2,FALSE
+150,Thai,Dare-Schmeler,$$$,QUEENS,03:00,0,TRUE
+151,Mexican,Smitham Inc,$,QUEENS,13:00,0,TRUE
+152,Korean,Schmitt Group,$$,BROOKLYN,15:00,3,FALSE
+153,Breakfast,"Murazik, Jenkins and Quigley",$,STATEN ISLAND,13:00,4,FALSE
+154,Italian,Prohaska LLC,$,BROOKLYN,09:00,4,FALSE
+155,Italian,Mosciski-Davis,$,QUEENS,09:00,5,TRUE
+156,Mexican,Littel-Purdy,$,QUEENS,20:00,0,TRUE
+157,Breakfast,"Schneider, Kovacek and Jacobi",$$,QUEENS,14:00,3,FALSE
+158,Japanese,Kohler-Pagac,$$$,STATEN ISLAND,21:00,3,TRUE
+159,Desserts,Beahan Group,$,QUEENS,21:00,2,FALSE
+160,Korean,Rau-O'Hara,$$$,BRONX,02:00,3,FALSE
+161,Vegan,Douglas Group,$,BROOKLYN,10:00,3,FALSE
+162,Mexican,Dooley Group,$$$,STATEN ISLAND,17:00,4,FALSE
+163,Japanese,"Lindgren, Schmitt and Schinner",$,STATEN ISLAND,09:00,1,FALSE
+164,Thai,Tromp Group,$$,BROOKLYN,02:00,5,TRUE
+165,Japanese,Schuppe and Sons,$$,MANHATTAN,19:00,0,FALSE
+166,Italian,"Dach, Christiansen and Johnson",$$,STATEN ISLAND,17:00,0,FALSE
+167,Vegan,Metz Group,$$$,MANHATTAN,14:00,4,FALSE
+168,Fast Food,Emmerich Group,$$$,BROOKLYN,20:00,2,FALSE
+169,Mexican,"Prohaska, Ankunding and Swaniawski",$,BROOKLYN,05:00,5,FALSE
+170,American,Orn Inc,$$,MANHATTAN,03:00,4,TRUE
+171,American,Bayer Inc,$,BROOKLYN,07:00,1,FALSE
+172,American,Schinner and Sons,$$,BRONX,18:00,3,FALSE
+173,Vegan,Lakin-Oberbrunner,$,STATEN ISLAND,02:00,0,TRUE
+174,Breakfast,"Stark, Connelly and Hackett",$$$,BROOKLYN,22:00,0,TRUE
+175,Vegan,Leannon LLC,$$$,STATEN ISLAND,04:00,5,TRUE
+176,Breakfast,"Kshlerin, Collins and Lowe",$$,BROOKLYN,04:00,1,TRUE
+177,Vegan,Homenick LLC,$$$,QUEENS,22:00,2,TRUE
+178,Chinese,"Pfannerstill, Schaefer and O'Hara",$$,STATEN ISLAND,14:00,1,TRUE
+179,Mexican,Jerde Group,$$,MANHATTAN,21:00,1,TRUE
+180,Thai,Kuphal LLC,$$,QUEENS,22:00,4,FALSE
+181,American,Rodriguez Group,$$$,QUEENS,14:00,4,FALSE
+182,Fast Food,"Mertz, Bartoletti and Torp",$$,STATEN ISLAND,05:00,4,TRUE
+183,American,"Parisian, Keebler and Kreiger",$,QUEENS,23:00,1,TRUE
+184,Desserts,"Stark, Emard and Kling",$$$,QUEENS,11:00,4,FALSE
+185,Mexican,Rice Inc,$,QUEENS,10:00,1,FALSE
+186,Indian,Gislason Inc,$$$,MANHATTAN,18:00,0,FALSE
+187,Vegan,"Nikolaus, King and Grant",$$$,BRONX,08:00,2,TRUE
+188,Chinese,Kris-Waters,$,BROOKLYN,20:00,4,TRUE
+189,Korean,Durgan and Sons,$$,QUEENS,15:00,5,FALSE
+190,Indian,Schoen LLC,$,QUEENS,21:00,1,FALSE
+191,Chinese,Koch and Sons,$$,BRONX,01:00,2,FALSE
+192,Chinese,"Brekke, Kunde and McClure",$,BRONX,02:00,1,TRUE
+193,Korean,"Leannon, Roberts and Simonis",$$$,STATEN ISLAND,05:00,0,FALSE
+194,Fast Food,Kohler-Hansen,$,BROOKLYN,15:00,5,TRUE
+195,Japanese,Gaylord-Schuster,$$,BROOKLYN,07:00,1,TRUE
+196,Desserts,Schulist-Becker,$$$,BRONX,08:00,1,FALSE
+197,Italian,Hilpert and Sons,$$$,QUEENS,04:00,4,TRUE
+198,Indian,"Beier, Howell and Emard",$$,MANHATTAN,02:00,4,TRUE
+199,Breakfast,Barton Group,$,BRONX,12:00,1,FALSE
+200,Italian,"Zieme, Corkery and Gusikowski",$,STATEN ISLAND,22:00,2,FALSE
+201,Korean,Mueller-Lind,$$$,BRONX,12:00,1,FALSE
+202,Japanese,Walsh Inc,$$$,STATEN ISLAND,00:00,4,TRUE
+203,Fast Food,"Bergnaum, Upton and Gibson",$$,BRONX,05:00,0,TRUE
+204,Vegan,"Wuckert, Johnston and Pfannerstill",$,STATEN ISLAND,18:00,4,FALSE
+205,Desserts,Reynolds Group,$,BROOKLYN,21:00,2,FALSE
+206,Korean,Koelpin-Hirthe,$$$,BROOKLYN,23:00,1,FALSE
+207,Korean,Krajcik and Sons,$$,STATEN ISLAND,14:00,1,TRUE
+208,Japanese,Lakin Group,$$,MANHATTAN,11:00,5,FALSE
+209,Vegan,Mohr-Altenwerth,$$,BRONX,08:00,5,FALSE
+210,Thai,Ondricka LLC,$,MANHATTAN,18:00,3,TRUE
+211,Korean,Kozey-Frami,$,BRONX,05:00,5,FALSE
+212,Chinese,Dooley Inc,$,MANHATTAN,23:00,5,TRUE
+213,American,Stamm and Sons,$,STATEN ISLAND,19:00,1,FALSE
+214,Thai,"Vandervort, Stehr and Kutch",$$,MANHATTAN,13:00,1,TRUE
+215,Desserts,Rempel-Howell,$$,MANHATTAN,06:00,1,TRUE
+216,Mexican,"Braun, Spinka and O'Kon",$$,MANHATTAN,09:00,3,TRUE
+217,Desserts,Frami-Dach,$$$,MANHATTAN,15:00,3,FALSE
+218,Vegan,Ryan-Morissette,$,QUEENS,19:00,3,TRUE
+219,Indian,Witting-Waelchi,$,QUEENS,07:00,2,FALSE
+220,Mexican,Collier-McDermott,$$,STATEN ISLAND,17:00,0,TRUE
+221,Breakfast,Jerde-Kub,$$,STATEN ISLAND,22:00,1,TRUE
+222,Vegan,Crona LLC,$,BROOKLYN,14:00,5,FALSE
+223,Chinese,Brekke LLC,$$$,BROOKLYN,23:00,3,FALSE
+224,Desserts,Jacobson LLC,$$,BROOKLYN,03:00,1,TRUE
+225,American,Trantow-DuBuque,$$,STATEN ISLAND,03:00,1,TRUE
+226,Mexican,Rosenbaum and Sons,$,MANHATTAN,06:00,5,TRUE
+227,Mexican,"Johnston, Schaefer and Lebsack",$,BROOKLYN,22:00,0,FALSE
+228,Mexican,"Veum, Herman and Miller",$$,QUEENS,18:00,0,TRUE
+229,American,Sipes-Leffler,$,BRONX,15:00,1,FALSE
+230,American,"Kassulke, Collier and O'Hara",$$$,QUEENS,15:00,0,TRUE
+231,Breakfast,Larkin-Jacobi,$$,BRONX,23:00,0,FALSE
+232,Desserts,Shanahan-Medhurst,$$$,QUEENS,09:00,3,FALSE
+233,Vegan,Fay and Sons,$,BROOKLYN,06:00,2,TRUE
+234,Fast Food,"Ruecker, Graham and Russel",$$$,MANHATTAN,20:00,5,FALSE
+235,American,Morissette LLC,$$$,QUEENS,13:00,1,FALSE
+236,Italian,"Leuschke, Metz and Bailey",$$,QUEENS,15:00,5,FALSE
+237,Breakfast,Ondricka Inc,$,STATEN ISLAND,16:00,0,FALSE
+238,Desserts,"Hirthe, Balistreri and Osinski",$$,QUEENS,14:00,0,TRUE
+239,Japanese,Nolan-Abshire,$$,QUEENS,19:00,2,FALSE
+240,Japanese,"Lubowitz, Mills and Fahey",$$,STATEN ISLAND,08:00,1,FALSE
+241,Korean,"Bogisich, Paucek and Lehner",$$$,STATEN ISLAND,03:00,2,FALSE
+242,American,Huels-Stamm,$$$,STATEN ISLAND,05:00,5,TRUE
+243,Fast Food,"Howe, Lehner and Hyatt",$,BROOKLYN,02:00,5,FALSE
+244,Breakfast,Rempel-Bosco,$,BROOKLYN,08:00,1,TRUE
+245,Breakfast,Streich-Wiza,$,QUEENS,09:00,0,FALSE
+246,Korean,Will-O'Hara,$$,BRONX,17:00,2,TRUE
+247,Italian,Bechtelar and Sons,$$$,MANHATTAN,16:00,0,TRUE
+248,Breakfast,Bernier Inc,$$$,MANHATTAN,14:00,3,FALSE
+249,Japanese,"Toy, Stanton and Lubowitz",$,STATEN ISLAND,02:00,5,TRUE
+250,Indian,"Schmeler, Ortiz and Rempel",$,BRONX,11:00,1,TRUE
+251,Vegan,Rogahn-Pacocha,$$$,STATEN ISLAND,16:00,3,TRUE
+252,Chinese,"Willms, Gusikowski and Halvorson",$$,BRONX,21:00,4,FALSE
+253,Mexican,Kulas-Morar,$$,STATEN ISLAND,19:00,0,FALSE
+254,American,"Homenick, Walsh and Simonis",$$,STATEN ISLAND,15:00,1,FALSE
+255,Vegan,Jerde-Farrell,$,STATEN ISLAND,05:00,5,TRUE
+256,Japanese,"Boyle, Huel and Funk",$$,MANHATTAN,11:00,5,TRUE
+257,Italian,Gorczany-Blick,$,STATEN ISLAND,06:00,1,TRUE
+258,Thai,Gleason Inc,$,MANHATTAN,20:00,0,FALSE
+259,Japanese,Towne-Torp,$$$,BRONX,07:00,4,FALSE
+260,Italian,Batz-Denesik,$$$,MANHATTAN,19:00,1,TRUE
+261,Mexican,Murray Group,$$$,BRONX,01:00,2,FALSE
+262,American,"Thiel, Veum and Jast",$,BRONX,16:00,4,FALSE
+263,Desserts,"Lockman, Volkman and Kuhlman",$$,BROOKLYN,18:00,5,FALSE
+264,Korean,Wilderman-Abbott,$$,MANHATTAN,17:00,1,FALSE
+265,Chinese,"Homenick, Little and Daniel",$$$,BRONX,03:00,2,TRUE
+266,Mexican,Kshlerin-Hoeger,$$$,BROOKLYN,04:00,0,FALSE
+267,Chinese,"McKenzie, Walker and Murray",$$$,BRONX,03:00,3,TRUE
+268,Thai,Hoppe Inc,$,BROOKLYN,07:00,0,FALSE
+269,Italian,Kunze-DuBuque,$$,BRONX,10:00,2,FALSE
+270,Korean,Bode Group,$$,BRONX,18:00,0,FALSE
+271,Thai,Schaefer-Schaefer,$$$,BROOKLYN,11:00,2,FALSE
+272,Vegan,Durgan Group,$,QUEENS,13:00,1,TRUE
+273,Indian,Murazik and Sons,$$,BROOKLYN,10:00,4,TRUE
+274,Fast Food,Howell and Sons,$$,BRONX,18:00,5,TRUE
+275,American,Crona-O'Hara,$,BRONX,20:00,4,TRUE
+276,Desserts,Berge-Blick,$$$,QUEENS,23:00,5,TRUE
+277,American,"Sanford, Greenfelder and Lowe",$,STATEN ISLAND,03:00,5,TRUE
+278,Mexican,"McDermott, Zieme and Block",$$,BRONX,19:00,3,TRUE
+279,Italian,"Zboncak, Mann and Blanda",$$,BRONX,09:00,5,TRUE
+280,Desserts,Koch Inc,$,MANHATTAN,13:00,3,TRUE
+281,Thai,Mayer-Ankunding,$$,STATEN ISLAND,05:00,1,TRUE
+282,American,Runolfsson LLC,$$$,QUEENS,16:00,4,FALSE
+283,Fast Food,Welch and Sons,$$$,BRONX,07:00,4,TRUE
+284,Chinese,"Jones, Morissette and Halvorson",$$,BROOKLYN,20:00,0,FALSE
+285,Thai,Quitzon LLC,$$,BRONX,04:00,3,FALSE
+286,Chinese,Gaylord-Schuster,$$,MANHATTAN,20:00,1,TRUE
+287,Korean,Sporer Inc,$,BRONX,08:00,5,FALSE
+288,Fast Food,"Lehner, Rosenbaum and Heaney",$,QUEENS,07:00,0,TRUE
+289,Breakfast,"Feeney, Kling and Lindgren",$$$,MANHATTAN,20:00,5,TRUE
+290,Korean,Goldner Inc,$$,BRONX,18:00,4,TRUE
+291,American,Gusikowski Group,$$,MANHATTAN,07:00,5,TRUE
+292,American,Strosin Group,$,MANHATTAN,18:00,3,FALSE
+293,Desserts,Hamill-Becker,$,STATEN ISLAND,21:00,5,FALSE
+294,Thai,Baumbach and Sons,$$$,QUEENS,08:00,5,FALSE
+295,Italian,Gerlach-Jacobi,$$$,STATEN ISLAND,10:00,5,FALSE
+296,Indian,Ullrich-Pacocha,$$$,BRONX,15:00,3,TRUE
+297,Desserts,Mohr and Sons,$,QUEENS,09:00,3,FALSE
+298,Breakfast,"Dare, Stehr and Ernser",$$,MANHATTAN,02:00,4,FALSE
+299,Desserts,Mills Group,$,BROOKLYN,00:00,2,FALSE
+300,Japanese,Nader-Hauck,$,MANHATTAN,21:00,4,FALSE
+301,American,Metz LLC,$$$,QUEENS,11:00,0,FALSE
+302,Korean,Carter and Sons,$,STATEN ISLAND,10:00,5,TRUE
+303,Fast Food,Hudson-Bahringer,$$,QUEENS,11:00,2,TRUE
+304,Japanese,Stoltenberg Inc,$,BRONX,19:00,2,FALSE
+305,Fast Food,"Tillman, Murazik and Brekke",$$,MANHATTAN,07:00,0,TRUE
+306,Thai,Mitchell-Keeling,$$$,STATEN ISLAND,20:00,1,FALSE
+307,Korean,Kling-Schmeler,$$,QUEENS,14:00,2,FALSE
+308,Breakfast,"Gulgowski, Marquardt and Lang",$,BROOKLYN,13:00,4,FALSE
+309,Italian,Gleichner-Kris,$$$,BROOKLYN,06:00,2,FALSE
+310,Breakfast,Mohr Inc,$$,STATEN ISLAND,16:00,5,FALSE
+311,Chinese,Doyle-Zemlak,$,STATEN ISLAND,00:00,3,FALSE
+312,Vegan,"Keeling, Dietrich and Pfeffer",$,BRONX,01:00,1,FALSE
+313,Japanese,Rutherford and Sons,$,BROOKLYN,08:00,4,FALSE
+314,Italian,Kozey LLC,$,BRONX,11:00,5,TRUE
+315,American,"D'Amore, Hickle and King",$$$,QUEENS,23:00,0,TRUE
+316,Fast Food,Kunze-Bogisich,$$,BROOKLYN,23:00,5,FALSE
+317,Mexican,Veum-Walter,$$,QUEENS,15:00,3,TRUE
+318,Breakfast,"Dickens, O'Keefe and O'Connell",$$$,MANHATTAN,17:00,1,FALSE
+319,Thai,Wisozk-Becker,$$$,MANHATTAN,09:00,4,FALSE
+320,American,"Jacobs, Schimmel and Schamberger",$,QUEENS,13:00,5,FALSE
+321,American,Dicki-Hessel,$$$,BRONX,16:00,0,FALSE
+322,Italian,Wiegand-Kuvalis,$$$,STATEN ISLAND,08:00,0,TRUE
+323,Vegan,"Hodkiewicz, Torphy and Abshire",$$,BRONX,19:00,2,FALSE
+324,Korean,O'Kon Group,$,BROOKLYN,04:00,2,FALSE
+325,Chinese,"Sporer, Sawayn and Quitzon",$$$,STATEN ISLAND,18:00,0,TRUE
+326,American,"Dach, Cronin and Orn",$,STATEN ISLAND,13:00,0,TRUE
+327,Thai,Gerhold-Murray,$$$,STATEN ISLAND,13:00,2,FALSE
+328,Thai,Ondricka Inc,$$,BROOKLYN,12:00,2,TRUE
+329,Fast Food,Senger LLC,$,BROOKLYN,18:00,5,FALSE
+330,Indian,Cremin LLC,$$,QUEENS,13:00,5,FALSE
+331,Vegan,Balistreri and Sons,$$,MANHATTAN,11:00,1,FALSE
+332,Fast Food,Macejkovic-Simonis,$$$,BROOKLYN,14:00,4,FALSE
+333,Fast Food,"Schimmel, Champlin and Littel",$$,BROOKLYN,07:00,2,FALSE
+334,Italian,Moen-Grimes,$$$,QUEENS,18:00,4,TRUE
+335,Japanese,Smitham-Shanahan,$$$,BRONX,08:00,1,FALSE
+336,Mexican,"Russel, Renner and Sanford",$,BROOKLYN,05:00,2,FALSE
+337,American,"Olson, Reichert and Padberg",$,MANHATTAN,16:00,4,FALSE
+338,Italian,"Kuhlman, Walker and Lowe",$,STATEN ISLAND,20:00,3,TRUE
+339,Fast Food,"Carter, Schaden and Wehner",$$$,MANHATTAN,23:00,2,FALSE
+340,Mexican,Shields-Turcotte,$,QUEENS,20:00,4,TRUE
+341,Korean,"Paucek, O'Kon and Weber",$$$,BROOKLYN,12:00,5,TRUE
+342,Thai,Walsh and Sons,$$$,BRONX,07:00,4,TRUE
+343,Chinese,Bode Group,$,MANHATTAN,00:00,0,TRUE
+344,Japanese,Okuneva-Bayer,$$$,BROOKLYN,13:00,4,TRUE
+345,Thai,"Berge, Flatley and Dicki",$$,STATEN ISLAND,11:00,4,FALSE
+346,Japanese,"Batz, Pfeffer and Hauck",$,MANHATTAN,06:00,5,TRUE
+347,Mexican,Kshlerin-Hegmann,$$,QUEENS,00:00,0,TRUE
+348,Chinese,"Ankunding, Douglas and Schaden",$,QUEENS,11:00,3,FALSE
+349,Breakfast,Anderson LLC,$,BROOKLYN,14:00,0,FALSE
+350,Thai,Price-Altenwerth,$,QUEENS,13:00,2,TRUE
+351,Korean,"Kreiger, Nader and Nolan",$$$,STATEN ISLAND,08:00,0,FALSE
+352,Korean,Robel LLC,$$,BROOKLYN,04:00,4,TRUE
+353,Fast Food,Rosenbaum-Anderson,$$,MANHATTAN,22:00,5,TRUE
+354,Breakfast,Bradtke LLC,$$,BROOKLYN,15:00,2,FALSE
+355,Breakfast,Prohaska and Sons,$$,STATEN ISLAND,13:00,0,FALSE
+356,Italian,"Kub, Stehr and Daugherty",$$$,BROOKLYN,02:00,0,FALSE
+357,Italian,"Wintheiser, Fritsch and Hermiston",$$,BRONX,14:00,0,TRUE
+358,Italian,Nitzsche-Rogahn,$$$,QUEENS,11:00,0,FALSE
+359,American,Schimmel-Crona,$$,STATEN ISLAND,13:00,4,FALSE
+360,American,Hauck-Stark,$$,BRONX,09:00,2,FALSE
+361,Breakfast,Graham-Dietrich,$$$,STATEN ISLAND,23:00,5,TRUE
+362,Fast Food,Zboncak and Sons,$$$,BROOKLYN,15:00,3,FALSE
+363,American,Carter-Shields,$,MANHATTAN,18:00,4,TRUE
+364,Mexican,Rodriguez-Quitzon,$$$,BROOKLYN,18:00,4,TRUE
+365,Korean,Keeling LLC,$$$,BROOKLYN,08:00,0,FALSE
+366,Indian,Bartell and Sons,$,MANHATTAN,15:00,3,FALSE
+367,American,"Langworth, Jerde and Schumm",$$$,MANHATTAN,01:00,2,TRUE
+368,Fast Food,"Ledner, Dach and Swift",$$$,MANHATTAN,02:00,5,TRUE
+369,Desserts,"Kilback, Hermiston and Cruickshank",$$$,MANHATTAN,05:00,2,TRUE
+370,Vegan,Stokes-Pfannerstill,$$$,MANHATTAN,09:00,1,FALSE
+371,Thai,Mayer-Gislason,$$,QUEENS,05:00,1,TRUE
+372,Breakfast,Kunde-Smith,$,MANHATTAN,18:00,4,TRUE
+373,Thai,"Hansen, Simonis and Turcotte",$$$,MANHATTAN,11:00,4,TRUE
+374,Japanese,Fahey and Sons,$,STATEN ISLAND,13:00,5,FALSE
+375,Italian,Sawayn-Blick,$,BRONX,10:00,1,TRUE
+376,Italian,Hayes-Heaney,$,BROOKLYN,17:00,4,TRUE
+377,Chinese,"Gibson, Legros and Heaney",$,QUEENS,09:00,0,TRUE
+378,Chinese,Bayer LLC,$,STATEN ISLAND,01:00,1,TRUE
+379,Korean,Kilback and Sons,$,BROOKLYN,11:00,5,FALSE
+380,Desserts,"Skiles, Mohr and Price",$$$,MANHATTAN,07:00,4,FALSE
+381,Japanese,"Lakin, Howe and Morar",$$,MANHATTAN,11:00,4,FALSE
+382,Japanese,"Ondricka, Watsica and Hilpert",$$,QUEENS,18:00,0,FALSE
+383,American,Herman-Hammes,$,STATEN ISLAND,08:00,1,TRUE
+384,Breakfast,"Moen, McDermott and Hamill",$$$,QUEENS,08:00,3,FALSE
+385,Fast Food,Rosenbaum and Sons,$$,BROOKLYN,00:00,2,TRUE
+386,Desserts,"Gleichner, Maggio and Cronin",$$,BRONX,13:00,0,TRUE
+387,Chinese,Weber-Rippin,$$$,STATEN ISLAND,02:00,0,TRUE
+388,Korean,"Mayert, Stehr and Hyatt",$$$,BROOKLYN,18:00,3,TRUE
+389,Thai,Morar-Sauer,$,STATEN ISLAND,20:00,2,FALSE
+390,Vegan,Conn Inc,$$,MANHATTAN,02:00,0,TRUE
+391,Mexican,"Gorczany, Wunsch and Kuphal",$,MANHATTAN,09:00,3,TRUE
+392,Italian,Harber Inc,$$,BRONX,14:00,2,TRUE
+393,Breakfast,"Quitzon, Casper and Kuhn",$$$,QUEENS,19:00,2,FALSE
+394,Korean,Prohaska-Turner,$,STATEN ISLAND,16:00,0,FALSE
+395,Japanese,Hills-Emmerich,$$$,STATEN ISLAND,12:00,2,TRUE
+396,Italian,"Weber, Hirthe and Bartoletti",$$,STATEN ISLAND,09:00,0,TRUE
+397,Breakfast,"Maggio, Kertzmann and Yundt",$$,STATEN ISLAND,21:00,4,TRUE
+398,Korean,Swift-Rippin,$$$,QUEENS,03:00,1,FALSE
+399,Thai,Gutmann Inc,$$$,MANHATTAN,20:00,4,FALSE
+400,Desserts,Herzog-Koss,$$,BROOKLYN,01:00,2,TRUE
+401,Fast Food,Reinger Group,$$,MANHATTAN,11:00,1,TRUE
+402,American,Schowalter LLC,$$,BRONX,03:00,2,TRUE
+403,Thai,Pollich-Herzog,$$$,BRONX,09:00,0,TRUE
+404,Chinese,Ullrich LLC,$$,MANHATTAN,07:00,3,FALSE
+405,American,"Dibbert, Ullrich and Marks",$,MANHATTAN,01:00,3,TRUE
+406,Korean,"Dickens, Borer and Lesch",$,QUEENS,01:00,1,TRUE
+407,Italian,"Kreiger, Murphy and Abernathy",$$$,BROOKLYN,12:00,4,FALSE
+408,Thai,Quitzon-Kling,$$,STATEN ISLAND,12:00,0,FALSE
+409,Japanese,"Harvey, Gottlieb and Gottlieb",$$,QUEENS,14:00,1,TRUE
+410,Fast Food,Wilkinson-Towne,$,BROOKLYN,20:00,4,FALSE
+411,Fast Food,Will-Bartoletti,$$$,QUEENS,18:00,3,TRUE
+412,Breakfast,Douglas LLC,$,QUEENS,13:00,3,TRUE
+413,Indian,Walsh Inc,$$$,MANHATTAN,10:00,5,FALSE
+414,Thai,Schultz Group,$$$,BROOKLYN,15:00,3,TRUE
+415,Chinese,Yundt Inc,$$$,STATEN ISLAND,08:00,2,TRUE
+416,Korean,Watsica Inc,$$,QUEENS,07:00,3,FALSE
+417,Vegan,Herman Group,$$$,MANHATTAN,10:00,2,TRUE
+418,Chinese,Donnelly-Kunze,$$,MANHATTAN,18:00,3,FALSE
+419,Chinese,Fadel LLC,$,MANHATTAN,04:00,1,TRUE
+420,Chinese,"Gislason, Stroman and Kassulke",$,BRONX,06:00,5,TRUE
+421,Breakfast,Grant-Blick,$$$,STATEN ISLAND,22:00,1,TRUE
+422,Mexican,Johnston Group,$,MANHATTAN,12:00,3,FALSE
+423,Thai,"Stanton, Streich and Wisoky",$,BRONX,02:00,2,FALSE
+424,Fast Food,"McDermott, Howell and Hoppe",$,MANHATTAN,22:00,0,FALSE
+425,Italian,Harber Group,$$,BRONX,21:00,1,TRUE
+426,Korean,Considine-Kunde,$$$,STATEN ISLAND,20:00,2,FALSE
+427,American,Johnston-Shields,$$,MANHATTAN,08:00,3,FALSE
+428,Breakfast,Ferry-Koss,$$$,STATEN ISLAND,10:00,1,TRUE
+429,Desserts,"Franecki, Brown and Cartwright",$$,QUEENS,01:00,1,TRUE
+430,Fast Food,Sanford Group,$$,STATEN ISLAND,17:00,2,TRUE
+431,Japanese,Block-Murphy,$$,MANHATTAN,13:00,1,TRUE
+432,Italian,Tillman-Schmeler,$$,QUEENS,03:00,3,TRUE
+433,American,Reynolds-Konopelski,$,BRONX,08:00,3,TRUE
+434,Breakfast,Considine Group,$$$,MANHATTAN,20:00,0,FALSE
+435,Korean,Marquardt LLC,$$$,BROOKLYN,07:00,0,TRUE
+436,Breakfast,Nitzsche Inc,$$$,QUEENS,00:00,4,FALSE
+437,Indian,Bruen-Bradtke,$,QUEENS,11:00,3,TRUE
+438,Breakfast,Macejkovic-Runte,$$,BRONX,05:00,4,FALSE
+439,Mexican,"Walsh, Kirlin and Volkman",$$$,BRONX,23:00,2,TRUE
+440,Mexican,Greenholt LLC,$,QUEENS,02:00,1,FALSE
+441,Indian,Miller-Aufderhar,$$,BRONX,09:00,5,FALSE
+442,Indian,Langworth Group,$$$,QUEENS,11:00,1,TRUE
+443,Japanese,Carroll-Muller,$$$,QUEENS,10:00,3,TRUE
+444,Italian,Simonis-O'Keefe,$$,MANHATTAN,08:00,5,TRUE
+445,Korean,Lowe and Sons,$,BROOKLYN,14:00,2,TRUE
+446,Fast Food,"Hane, Hackett and Littel",$$,QUEENS,20:00,2,TRUE
+447,Vegan,Fadel and Sons,$$$,BROOKLYN,10:00,0,FALSE
+448,Fast Food,Keebler Group,$$$,BRONX,21:00,3,FALSE
+449,Indian,Farrell-McLaughlin,$$,MANHATTAN,02:00,3,TRUE
+450,Korean,Kub-Greenfelder,$$,STATEN ISLAND,00:00,4,TRUE
+451,American,"Abshire, Fisher and Lehner",$$,QUEENS,01:00,4,TRUE
+452,Breakfast,Greenfelder-Wyman,$,BROOKLYN,13:00,4,FALSE
+453,Thai,Cartwright-Miller,$$,BROOKLYN,02:00,0,FALSE
+454,Desserts,"Rowe, Russel and Bailey",$,BROOKLYN,14:00,2,FALSE
+455,Mexican,"Ernser, Dicki and Ratke",$$$,BRONX,11:00,3,FALSE
+456,Mexican,Johnston-D'Amore,$$$,BROOKLYN,20:00,1,TRUE
+457,Italian,"VonRueden, Hahn and Jaskolski",$$$,BRONX,11:00,1,FALSE
+458,American,Douglas-Steuber,$,MANHATTAN,08:00,5,TRUE
+459,Desserts,O'Reilly Inc,$$,BROOKLYN,07:00,2,TRUE
+460,Chinese,Altenwerth-Ruecker,$$,STATEN ISLAND,12:00,3,FALSE
+461,Vegan,Aufderhar Inc,$$,BRONX,21:00,1,TRUE
+462,Italian,Bradtke-Blanda,$$,MANHATTAN,02:00,3,FALSE
+463,Korean,Veum-Schowalter,$,BRONX,05:00,0,TRUE
+464,Vegan,"Nolan, Heidenreich and Miller",$,MANHATTAN,00:00,3,FALSE
+465,Korean,Berge-Leffler,$,STATEN ISLAND,22:00,5,FALSE
+466,Breakfast,Pfeffer-Kilback,$$$,MANHATTAN,09:00,0,FALSE
+467,Thai,"Medhurst, Lemke and Williamson",$$,QUEENS,16:00,2,TRUE
+468,Thai,Tromp-Mayert,$$$,QUEENS,03:00,0,TRUE
+469,Italian,Graham-Anderson,$$$,BROOKLYN,11:00,3,TRUE
+470,Vegan,Grady-Schinner,$$$,QUEENS,22:00,4,FALSE
+471,Korean,Olson and Sons,$,STATEN ISLAND,20:00,0,TRUE
+472,Mexican,Lehner-Hayes,$,QUEENS,09:00,5,TRUE
+473,Chinese,"Little, Dietrich and Muller",$$,MANHATTAN,12:00,0,FALSE
+474,Chinese,Hayes-Marquardt,$$,BRONX,01:00,2,FALSE
+475,Breakfast,Schumm-Hane,$,BRONX,03:00,3,TRUE
+476,Mexican,Dickens Inc,$,MANHATTAN,15:00,1,FALSE
+477,Indian,Schulist-Bogisich,$$,BROOKLYN,08:00,4,TRUE
+478,Desserts,O'Reilly-Ratke,$$,MANHATTAN,16:00,2,FALSE
+479,Fast Food,"Brekke, Dickens and Rau",$$,BRONX,09:00,1,TRUE
+480,Vegan,"Feil, Mueller and Durgan",$,QUEENS,10:00,2,FALSE
+481,Korean,Kuhic and Sons,$$$,BRONX,15:00,1,TRUE
+482,Breakfast,Buckridge-Nader,$$,STATEN ISLAND,01:00,5,TRUE
+483,Thai,Robel Inc,$,BRONX,07:00,4,TRUE
+484,Korean,White Inc,$$$,MANHATTAN,20:00,3,TRUE
+485,Breakfast,Schamberger Group,$$$,BRONX,10:00,3,FALSE
+486,Fast Food,Runolfsson-Wisoky,$,BROOKLYN,07:00,5,FALSE
+487,Korean,Hahn-Keeling,$,BROOKLYN,17:00,1,TRUE
+488,American,Cormier Inc,$$$,MANHATTAN,15:00,1,FALSE
+489,Italian,Bogan Group,$$$,STATEN ISLAND,12:00,3,TRUE
+490,Japanese,Aufderhar-Feeney,$,QUEENS,14:00,1,TRUE
+491,Fast Food,"Kilback, Yost and Predovic",$$,QUEENS,19:00,3,TRUE
+492,Chinese,Wolf-Tremblay,$$,BRONX,03:00,3,TRUE
+493,Italian,Sanford and Sons,$$,MANHATTAN,05:00,3,TRUE
+494,Vegan,Sporer-Spinka,$$,BROOKLYN,11:00,5,TRUE
+495,Mexican,"Kulas, Bergstrom and Kuvalis",$$$,BROOKLYN,12:00,0,TRUE
+496,Japanese,Bahringer LLC,$,QUEENS,03:00,0,TRUE
+497,Desserts,"Mitchell, Marvin and Wunsch",$$,BROOKLYN,15:00,3,TRUE
+498,Italian,"Mann, Schuppe and Schimmel",$$$,QUEENS,05:00,5,TRUE
+499,American,VonRueden and Sons,$$,BRONX,15:00,5,TRUE
+500,Thai,Greenholt-Auer,$$$,MANHATTAN,03:00,2,FALSE
+501,Desserts,"Abshire, Murray and Rogahn",$$$,QUEENS,23:00,4,TRUE
+502,Chinese,"Grant, Huels and Bailey",$,MANHATTAN,12:00,5,FALSE
+503,Korean,Schaefer-Kirlin,$$,QUEENS,20:00,2,FALSE
+504,Breakfast,Ernser Inc,$$,QUEENS,06:00,1,TRUE
+505,Breakfast,"Green, Yost and Hagenes",$$,MANHATTAN,19:00,5,FALSE
+506,Thai,"Bergstrom, Murphy and Konopelski",$,BROOKLYN,17:00,1,FALSE
+507,American,Pfeffer-Huels,$,QUEENS,18:00,5,TRUE
+508,Breakfast,"Metz, Stokes and Robel",$,QUEENS,14:00,3,FALSE
+509,Chinese,"Koch, Prohaska and Paucek",$,MANHATTAN,01:00,0,TRUE
+510,Chinese,"Murazik, Leuschke and Medhurst",$$$,QUEENS,22:00,2,FALSE
+511,Japanese,"D'Amore, McCullough and Braun",$$,MANHATTAN,08:00,4,TRUE
+512,Japanese,Kris-Cummerata,$,QUEENS,20:00,4,TRUE
+513,Breakfast,Rosenbaum-Lueilwitz,$$,MANHATTAN,09:00,2,FALSE
+514,Mexican,"Kertzmann, Abbott and Lynch",$$,BROOKLYN,15:00,4,TRUE
+515,Indian,Kunze Group,$$,BRONX,11:00,3,TRUE
+516,Japanese,Sporer LLC,$,STATEN ISLAND,10:00,4,FALSE
+517,Indian,Goldner-Roberts,$$,BRONX,09:00,4,TRUE
+518,Breakfast,"Bruen, Zemlak and Smitham",$,MANHATTAN,14:00,5,FALSE
+519,Italian,Treutel Inc,$,QUEENS,02:00,0,FALSE
+520,Japanese,Turcotte-Ullrich,$$,STATEN ISLAND,11:00,2,TRUE
+521,Indian,Hudson and Sons,$$,STATEN ISLAND,14:00,5,TRUE
+522,Breakfast,"Wehner, Kiehn and Monahan",$,STATEN ISLAND,09:00,3,FALSE
+523,Korean,Wintheiser-Hettinger,$,BROOKLYN,02:00,4,FALSE
+524,American,Gutkowski-Doyle,$$,BRONX,03:00,4,FALSE
+525,Japanese,Emmerich-Hegmann,$$$,BROOKLYN,21:00,1,FALSE
+526,Japanese,"Walsh, Kuhn and Welch",$$$,STATEN ISLAND,11:00,2,FALSE
+527,Italian,Hagenes and Sons,$,BRONX,19:00,0,TRUE
+528,Japanese,"McDermott, Kutch and Tromp",$,BRONX,22:00,2,FALSE
+529,American,Franecki Inc,$$$,MANHATTAN,12:00,2,FALSE
+530,Fast Food,Schuster Group,$$,BRONX,03:00,3,TRUE
+531,Italian,Klein LLC,$,BROOKLYN,11:00,0,FALSE
+532,Korean,Hegmann Inc,$,QUEENS,04:00,2,TRUE
+533,Korean,Cummerata-Robel,$,BRONX,19:00,0,TRUE
+534,Thai,"Donnelly, Funk and Kshlerin",$$$,STATEN ISLAND,08:00,0,FALSE
+535,American,Jast-Kunde,$$,BRONX,02:00,2,TRUE
+536,Korean,Predovic LLC,$$,BRONX,12:00,4,FALSE
+537,Fast Food,Ondricka Group,$$$,BRONX,03:00,5,TRUE
+538,Korean,Batz Inc,$$$,STATEN ISLAND,06:00,5,FALSE
+539,Korean,"Goldner, Heidenreich and King",$,BRONX,19:00,4,FALSE
+540,Mexican,Kuhlman-Kulas,$,MANHATTAN,10:00,0,TRUE
+541,Korean,Murray Inc,$$$,STATEN ISLAND,03:00,4,TRUE
+542,Korean,"Grimes, Raynor and Roberts",$$,QUEENS,18:00,1,FALSE
+543,Korean,King LLC,$$$,QUEENS,13:00,3,TRUE
+544,Breakfast,Collier-Rippin,$$$,QUEENS,12:00,0,TRUE
+545,Breakfast,Paucek-Koss,$$$,BROOKLYN,13:00,3,TRUE
+546,Chinese,Price LLC,$$,BRONX,13:00,5,FALSE
+547,Indian,Kshlerin Group,$$$,STATEN ISLAND,17:00,0,TRUE
+548,American,DuBuque-Bins,$$$,STATEN ISLAND,14:00,3,FALSE
+549,Vegan,Zemlak-Kulas,$,MANHATTAN,12:00,3,TRUE
+550,Fast Food,Pollich Inc,$,STATEN ISLAND,03:00,4,TRUE
+551,American,Kris-Gutmann,$,STATEN ISLAND,02:00,0,TRUE
+552,Breakfast,McClure-Bechtelar,$$$,STATEN ISLAND,17:00,5,FALSE
+553,Korean,Gleason Inc,$$$,BROOKLYN,10:00,5,FALSE
+554,Japanese,Crooks LLC,$,BROOKLYN,13:00,5,TRUE
+555,American,Borer-Heidenreich,$,STATEN ISLAND,16:00,5,FALSE
+556,Desserts,Boyer Inc,$,STATEN ISLAND,07:00,4,TRUE
+557,Thai,Brakus-Pollich,$$,STATEN ISLAND,13:00,2,TRUE
+558,Thai,Funk-Ziemann,$$$,STATEN ISLAND,05:00,4,TRUE
+559,Breakfast,"Johnson, Wiza and Kiehn",$,MANHATTAN,05:00,2,FALSE
+560,Chinese,"Beier, Jones and Sauer",$$,BROOKLYN,15:00,2,FALSE
+561,Vegan,Gorczany Inc,$$,BRONX,16:00,3,FALSE
+562,Vegan,Dickens Inc,$$,STATEN ISLAND,22:00,2,TRUE
+563,American,Considine-Ankunding,$,BRONX,22:00,0,TRUE
+564,Desserts,"Schinner, Harber and Macejkovic",$,STATEN ISLAND,00:00,5,FALSE
+565,Desserts,"Hilll, Rosenbaum and Spencer",$$,QUEENS,09:00,1,FALSE
+566,Fast Food,Gislason-Hammes,$,BRONX,08:00,5,FALSE
+567,Breakfast,"Leffler, Wyman and Kessler",$,STATEN ISLAND,12:00,5,FALSE
+568,Indian,Zieme-Gottlieb,$,QUEENS,14:00,3,TRUE
+569,Korean,"Schoen, Graham and Buckridge",$$,BRONX,03:00,1,FALSE
+570,Desserts,D'Amore-Kiehn,$$,BRONX,19:00,5,FALSE
+571,Chinese,"McGlynn, Spencer and Schmeler",$$,QUEENS,23:00,4,TRUE
+572,Korean,"Muller, Oberbrunner and Graham",$$$,STATEN ISLAND,19:00,0,TRUE
+573,Thai,Bernhard-Koelpin,$,BRONX,17:00,2,FALSE
+574,Desserts,Ryan Inc,$$$,BRONX,07:00,4,TRUE
+575,Desserts,Veum-Altenwerth,$,QUEENS,11:00,0,TRUE
+576,Indian,"Kihn, Windler and Schaefer",$$,BRONX,21:00,5,FALSE
+577,Indian,"Satterfield, Hilll and Stamm",$,STATEN ISLAND,01:00,3,TRUE
+578,Vegan,"Orn, Bailey and Dickens",$$$,BROOKLYN,20:00,0,TRUE
+579,Korean,McLaughlin Inc,$$$,QUEENS,18:00,5,TRUE
+580,Mexican,Stamm-Abshire,$$,STATEN ISLAND,07:00,4,FALSE
+581,Indian,"Hyatt, Mitchell and Kris",$$,BROOKLYN,08:00,4,FALSE
+582,Vegan,"Conn, McDermott and Aufderhar",$$$,BRONX,17:00,2,FALSE
+583,Desserts,Crona-Cormier,$$$,BRONX,22:00,1,FALSE
+584,Breakfast,Hermiston LLC,$,BROOKLYN,10:00,5,FALSE
+585,Korean,Bins-Zboncak,$$,QUEENS,18:00,4,TRUE
+586,Fast Food,Pfeffer-Kreiger,$$$,BROOKLYN,15:00,3,FALSE
+587,Indian,Nader Group,$$,BRONX,15:00,1,TRUE
+588,Chinese,"Jacobs, Leannon and Haley",$,BROOKLYN,07:00,4,TRUE
+589,Thai,Morissette LLC,$,STATEN ISLAND,22:00,0,TRUE
+590,American,"Lueilwitz, Abbott and MacGyver",$$,BROOKLYN,22:00,3,FALSE
+591,American,Wisozk LLC,$,BROOKLYN,05:00,1,TRUE
+592,Mexican,Torphy Group,$$$,BROOKLYN,00:00,3,TRUE
+593,Breakfast,Grimes LLC,$$,BRONX,00:00,0,FALSE
+594,Thai,Braun-Stamm,$$$,BRONX,03:00,1,FALSE
+595,Italian,Metz-Sipes,$$,BRONX,15:00,1,FALSE
+596,Fast Food,Kunde-Lehner,$$,QUEENS,17:00,3,FALSE
+597,Fast Food,Swift-Reichel,$$$,BRONX,22:00,4,TRUE
+598,Korean,Yost-Nolan,$$$,BRONX,18:00,4,TRUE
+599,Mexican,Leuschke-Pagac,$$,BRONX,10:00,1,TRUE
+600,American,Murray-Walker,$$$,QUEENS,00:00,4,TRUE
+601,Japanese,Kuhn-Spencer,$$$,QUEENS,10:00,5,FALSE
+602,Mexican,Carter and Sons,$$$,STATEN ISLAND,20:00,0,TRUE
+603,American,"Carroll, Beer and Haley",$$$,QUEENS,14:00,5,FALSE
+604,Italian,Parker-Bode,$,BROOKLYN,19:00,2,TRUE
+605,Italian,Marvin-Rau,$$,STATEN ISLAND,07:00,5,FALSE
+606,Desserts,Kub Inc,$$,MANHATTAN,05:00,3,FALSE
+607,Japanese,Russel Inc,$$,BRONX,08:00,0,TRUE
+608,Japanese,Weber-Crist,$,STATEN ISLAND,01:00,4,FALSE
+609,American,Bartell-Schinner,$$,STATEN ISLAND,09:00,1,TRUE
+610,Thai,"Considine, Connelly and Mills",$$,QUEENS,05:00,5,FALSE
+611,American,"Olson, Walsh and Stoltenberg",$,BROOKLYN,08:00,5,FALSE
+612,Mexican,Vandervort Inc,$,BRONX,16:00,5,TRUE
+613,American,O'Hara and Sons,$$,QUEENS,08:00,5,TRUE
+614,Chinese,Lockman Group,$,MANHATTAN,21:00,3,TRUE
+615,Breakfast,Adams-Morissette,$$$,BROOKLYN,09:00,2,FALSE
+616,Thai,"Daugherty, McKenzie and Koch",$$$,MANHATTAN,05:00,1,FALSE
+617,Desserts,"Bosco, Herman and Schumm",$,QUEENS,17:00,0,FALSE
+618,Fast Food,Pouros Group,$,BROOKLYN,07:00,5,TRUE
+619,American,Romaguera-Koelpin,$$,STATEN ISLAND,20:00,5,TRUE
+620,American,"Kemmer, MacGyver and Gutkowski",$$,MANHATTAN,07:00,4,TRUE
+621,Mexican,"Graham, Breitenberg and Torp",$$$,MANHATTAN,09:00,4,FALSE
+622,Fast Food,"Leuschke, Heaney and Dickinson",$$$,MANHATTAN,23:00,5,TRUE
+623,Indian,Schumm-Boyle,$$,BROOKLYN,02:00,5,TRUE
+624,Thai,Larkin Inc,$$,BRONX,00:00,4,FALSE
+625,Chinese,Lind LLC,$,BROOKLYN,15:00,0,TRUE
+626,Mexican,"Ullrich, Bradtke and Koch",$$,MANHATTAN,14:00,3,FALSE
+627,Desserts,"Roob, Blanda and Wintheiser",$$$,QUEENS,22:00,1,TRUE
+628,Breakfast,Reinger-Weber,$$,STATEN ISLAND,01:00,1,FALSE
+629,Fast Food,Gaylord-Schmeler,$$,BRONX,15:00,4,TRUE
+630,Japanese,Mertz-Hammes,$$,STATEN ISLAND,01:00,0,TRUE
+631,Fast Food,"Johnson, Ullrich and Bauch",$$$,MANHATTAN,07:00,4,FALSE
+632,Chinese,Feest-Medhurst,$,BRONX,21:00,5,FALSE
+633,Japanese,"Hammes, Lebsack and Sanford",$,STATEN ISLAND,07:00,4,FALSE
+634,Desserts,"Gutmann, Herzog and Turcotte",$,QUEENS,09:00,2,FALSE
+635,American,"McDermott, Bahringer and Hilll",$$$,QUEENS,10:00,0,TRUE
+636,Vegan,Lang-Thompson,$,STATEN ISLAND,21:00,5,TRUE
+637,Mexican,Pacocha-Donnelly,$$,QUEENS,19:00,5,TRUE
+638,Italian,Goldner-Bergnaum,$$$,QUEENS,13:00,5,TRUE
+639,Mexican,Luettgen-Bahringer,$,BROOKLYN,09:00,3,TRUE
+640,Italian,"Beier, Schowalter and Kilback",$$,BRONX,23:00,4,TRUE
+641,Korean,Glover-Kuhn,$$$,BROOKLYN,19:00,1,TRUE
+642,Thai,Hoeger-Rath,$,STATEN ISLAND,19:00,5,TRUE
+643,Desserts,Treutel Group,$$,BROOKLYN,22:00,4,FALSE
+644,Desserts,"Cummerata, Medhurst and Reynolds",$,QUEENS,10:00,5,TRUE
+645,Japanese,"Reichert, Schowalter and Leffler",$$$,BRONX,18:00,2,TRUE
+646,Japanese,"Stroman, Pfeffer and Rohan",$$$,BROOKLYN,01:00,5,FALSE
+647,Breakfast,Green-Brown,$$$,BROOKLYN,06:00,5,FALSE
+648,Thai,Renner-Turner,$$,STATEN ISLAND,15:00,4,TRUE
+649,Italian,Kohler Group,$$,QUEENS,22:00,2,FALSE
+650,American,Torp and Sons,$$$,BRONX,01:00,4,TRUE
+651,Thai,"Mosciski, MacGyver and Terry",$,BRONX,06:00,4,FALSE
+652,Thai,Feeney-O'Conner,$$$,QUEENS,01:00,4,TRUE
+653,Fast Food,Dare-Nienow,$,STATEN ISLAND,02:00,3,FALSE
+654,American,Becker Group,$$$,MANHATTAN,21:00,1,FALSE
+655,Vegan,Harvey and Sons,$$,BROOKLYN,10:00,4,FALSE
+656,Chinese,Spinka Inc,$$$,STATEN ISLAND,19:00,5,TRUE
+657,Breakfast,Donnelly-Bechtelar,$$,QUEENS,20:00,0,TRUE
+658,Korean,Kunde Group,$$,QUEENS,17:00,0,TRUE
+659,Chinese,"Volkman, Zieme and Langworth",$$,QUEENS,09:00,2,FALSE
+660,Korean,Gorczany-Bruen,$$$,BRONX,20:00,5,FALSE
+661,Desserts,Barton Inc,$$$,BROOKLYN,02:00,5,FALSE
+662,Italian,Jacobi Group,$$,BROOKLYN,07:00,4,TRUE
+663,Vegan,Hayes Inc,$$,BROOKLYN,15:00,1,FALSE
+664,Desserts,"Roob, Simonis and Schuster",$,QUEENS,16:00,1,TRUE
+665,Chinese,Hodkiewicz-Krajcik,$,BROOKLYN,11:00,1,TRUE
+666,Breakfast,Bergnaum LLC,$,MANHATTAN,18:00,5,FALSE
+667,Chinese,Swaniawski LLC,$,BROOKLYN,07:00,4,FALSE
+668,Indian,"Gislason, Pfannerstill and Cassin",$$$,STATEN ISLAND,20:00,3,TRUE
+669,American,Kuhn and Sons,$,STATEN ISLAND,21:00,2,TRUE
+670,American,Leffler and Sons,$$$,MANHATTAN,12:00,1,TRUE
+671,American,Renner-Bernier,$$$,STATEN ISLAND,03:00,4,TRUE
+672,Japanese,"Mueller, Lindgren and McLaughlin",$$,QUEENS,18:00,4,TRUE
+673,Indian,Hayes-Schuppe,$,MANHATTAN,01:00,3,TRUE
+674,Vegan,Torp LLC,$$$,STATEN ISLAND,20:00,0,TRUE
+675,Desserts,"Kerluke, Bashirian and Huel",$$,STATEN ISLAND,03:00,3,FALSE
+676,Korean,Bogisich-Paucek,$$$,STATEN ISLAND,21:00,1,FALSE
+677,Fast Food,"Leuschke, Bailey and Rau",$,STATEN ISLAND,08:00,3,FALSE
+678,Breakfast,Becker Inc,$$$,QUEENS,14:00,1,TRUE
+679,Mexican,Considine LLC,$,BRONX,13:00,0,FALSE
+680,American,Nitzsche-Schimmel,$$$,MANHATTAN,09:00,4,TRUE
+681,Chinese,Prosacco-Dibbert,$$,QUEENS,13:00,1,TRUE
+682,Desserts,Glover-Mueller,$$$,STATEN ISLAND,13:00,0,FALSE
+683,Fast Food,Rippin LLC,$$$,BRONX,21:00,2,TRUE
+684,Vegan,Wiegand-Rohan,$$$,BROOKLYN,02:00,3,FALSE
+685,Vegan,Greenfelder Inc,$$,STATEN ISLAND,04:00,3,FALSE
+686,Fast Food,"Halvorson, Koss and Dicki",$,STATEN ISLAND,13:00,0,TRUE
+687,Fast Food,Keebler-Howe,$$,MANHATTAN,03:00,4,TRUE
+688,Indian,Marquardt-Legros,$,QUEENS,05:00,3,TRUE
+689,Thai,Jacobi and Sons,$,MANHATTAN,05:00,5,FALSE
+690,Fast Food,Braun Inc,$,BROOKLYN,06:00,0,TRUE
+691,Italian,Fadel Group,$,MANHATTAN,05:00,3,FALSE
+692,Japanese,Glover Inc,$$$,QUEENS,03:00,5,FALSE
+693,Japanese,White Inc,$,STATEN ISLAND,04:00,4,TRUE
+694,Thai,Kozey Inc,$,QUEENS,13:00,3,FALSE
+695,Chinese,Braun-Lehner,$$,BROOKLYN,18:00,1,FALSE
+696,Chinese,"Lakin, Lowe and Wolff",$$$,BROOKLYN,04:00,2,FALSE
+697,Indian,Schaefer and Sons,$,BROOKLYN,13:00,3,TRUE
+698,American,Hagenes-Buckridge,$$$,QUEENS,00:00,5,FALSE
+699,Japanese,Bergstrom and Sons,$$,BRONX,11:00,1,TRUE
+700,Breakfast,Orn Group,$,BRONX,19:00,0,FALSE
+701,Italian,"Schulist, Kling and Casper",$$$,BRONX,21:00,3,FALSE
+702,American,"Sipes, Russel and Macejkovic",$$$,MANHATTAN,07:00,3,FALSE
+703,Mexican,"Corkery, Spinka and Rau",$$$,BROOKLYN,19:00,4,FALSE
+704,Chinese,Grant LLC,$$$,STATEN ISLAND,08:00,5,TRUE
+705,Indian,"Durgan, Harber and Beahan",$,STATEN ISLAND,07:00,1,FALSE
+706,Korean,"D'Amore, Mraz and Schultz",$$$,QUEENS,21:00,4,TRUE
+707,Italian,"Altenwerth, Wuckert and Walter",$,STATEN ISLAND,23:00,3,FALSE
+708,Italian,Strosin-Donnelly,$$$,MANHATTAN,07:00,5,TRUE
+709,Breakfast,Satterfield Inc,$$,QUEENS,11:00,0,TRUE
+710,Mexican,"Herman, Schroeder and Christiansen",$,BROOKLYN,00:00,4,FALSE
+711,Chinese,"Lesch, Kub and Schoen",$$$,QUEENS,12:00,0,TRUE
+712,Breakfast,"Schmitt, Davis and Rice",$$,MANHATTAN,12:00,1,TRUE
+713,Chinese,Rosenbaum Group,$,STATEN ISLAND,03:00,1,TRUE
+714,Italian,Krajcik-Kuhn,$$,MANHATTAN,07:00,5,TRUE
+715,Italian,Lakin-Veum,$$$,BROOKLYN,23:00,3,TRUE
+716,American,Bauch-Luettgen,$$$,BRONX,05:00,0,TRUE
+717,Vegan,Reichert Group,$,STATEN ISLAND,19:00,5,FALSE
+718,Korean,Pollich-Schmidt,$$,STATEN ISLAND,08:00,2,TRUE
+719,Japanese,Reilly Group,$,BRONX,07:00,2,TRUE
+720,American,Lowe Group,$,STATEN ISLAND,14:00,2,FALSE
+721,Japanese,Schumm Group,$$$,MANHATTAN,21:00,0,FALSE
+722,Vegan,Grant Inc,$,BRONX,13:00,1,TRUE
+723,Indian,Beatty-Huels,$$$,STATEN ISLAND,20:00,2,FALSE
+724,Desserts,"Abernathy, Hyatt and Mueller",$,STATEN ISLAND,15:00,5,FALSE
+725,Thai,Kiehn Group,$$,BRONX,23:00,5,FALSE
+726,Indian,Langosh Group,$,BROOKLYN,23:00,1,TRUE
+727,American,Braun LLC,$$$,STATEN ISLAND,11:00,0,TRUE
+728,Mexican,"Sporer, Trantow and Shields",$$$,STATEN ISLAND,20:00,4,FALSE
+729,American,Trantow Inc,$$$,STATEN ISLAND,23:00,5,FALSE
+730,Korean,Bayer-Luettgen,$$,BROOKLYN,10:00,2,TRUE
+731,Indian,Corwin-Purdy,$$$,BROOKLYN,17:00,4,TRUE
+732,Chinese,Macejkovic Group,$$,BRONX,13:00,5,TRUE
+733,Italian,Kihn-Bayer,$,BRONX,12:00,0,FALSE
+734,Desserts,Prosacco Inc,$$$,QUEENS,14:00,1,TRUE
+735,American,Mitchell and Sons,$$,BRONX,18:00,2,FALSE
+736,Desserts,Stroman-Turner,$$,BRONX,18:00,5,FALSE
+737,Japanese,Feil-McCullough,$,BROOKLYN,06:00,2,TRUE
+738,Chinese,O'Kon-Flatley,$$,MANHATTAN,20:00,4,TRUE
+739,Fast Food,"Schuppe, Lindgren and Wehner",$$$,BRONX,02:00,2,FALSE
+740,Thai,Glover-Hintz,$$,MANHATTAN,16:00,5,FALSE
+741,Indian,O'Connell-Anderson,$$,QUEENS,18:00,4,TRUE
+742,Mexican,"Hayes, Jaskolski and Rice",$$,BROOKLYN,07:00,4,TRUE
+743,Fast Food,"Mosciski, Thompson and Mertz",$$,QUEENS,11:00,4,FALSE
+744,Fast Food,Mills LLC,$$,BROOKLYN,00:00,1,FALSE
+745,Japanese,Ritchie-Erdman,$$,STATEN ISLAND,10:00,0,FALSE
+746,Fast Food,Tremblay Group,$,BROOKLYN,01:00,5,FALSE
+747,Italian,"Hoppe, Yundt and Welch",$$$,BRONX,12:00,4,FALSE
+748,Indian,"Romaguera, Hodkiewicz and Bailey",$$$,BRONX,03:00,1,TRUE
+749,Chinese,Maggio Group,$$,STATEN ISLAND,07:00,3,FALSE
+750,American,Schmeler and Sons,$$,BROOKLYN,22:00,2,TRUE
+751,American,Beer-Franecki,$,BROOKLYN,07:00,0,FALSE
+752,Chinese,Beer Group,$$$,STATEN ISLAND,10:00,0,TRUE
+753,American,Klocko-Daniel,$,BRONX,19:00,1,FALSE
+754,Japanese,O'Kon-Rowe,$$$,STATEN ISLAND,01:00,3,FALSE
+755,Breakfast,"Ritchie, Bartell and Ledner",$,BRONX,05:00,5,TRUE
+756,Mexican,Kris Group,$$,BRONX,15:00,4,TRUE
+757,Desserts,Legros-Funk,$$$,STATEN ISLAND,09:00,3,TRUE
+758,Vegan,Lindgren and Sons,$$$,BROOKLYN,04:00,3,TRUE
+759,Indian,Rau-Thompson,$$$,QUEENS,22:00,1,TRUE
+760,Chinese,Schiller and Sons,$$,BROOKLYN,12:00,3,FALSE
+761,Vegan,"Bergnaum, Breitenberg and Kub",$$,STATEN ISLAND,05:00,0,FALSE
+762,Japanese,Kautzer LLC,$$$,STATEN ISLAND,19:00,2,TRUE
+763,Mexican,Pagac-Trantow,$$$,MANHATTAN,17:00,2,FALSE
+764,Mexican,Shanahan-Kris,$,BRONX,01:00,5,FALSE
+765,Italian,Miller-Grant,$$$,MANHATTAN,08:00,2,TRUE
+766,Korean,Legros and Sons,$$,BRONX,12:00,0,FALSE
+767,Japanese,"Durgan, Lueilwitz and Hauck",$$$,BRONX,06:00,1,TRUE
+768,Indian,Dibbert-Reichel,$,QUEENS,14:00,4,TRUE
+769,Japanese,"Cartwright, Bogisich and Schuster",$$,MANHATTAN,02:00,2,TRUE
+770,Breakfast,Feil-Schuppe,$,STATEN ISLAND,04:00,0,TRUE
+771,Fast Food,Marks-Kunze,$$$,QUEENS,09:00,3,FALSE
+772,Vegan,Goldner-Sporer,$,STATEN ISLAND,14:00,1,FALSE
+773,Japanese,Sporer-Stark,$$,MANHATTAN,01:00,5,FALSE
+774,Mexican,Wisozk LLC,$$$,QUEENS,02:00,4,FALSE
+775,Fast Food,Johnson-Zulauf,$$$,MANHATTAN,00:00,0,FALSE
+776,Desserts,Stehr-Gleichner,$,BROOKLYN,09:00,0,TRUE
+777,Breakfast,"Luettgen, Flatley and Dietrich",$$,MANHATTAN,17:00,2,TRUE
+778,Desserts,Bogan Group,$$$,STATEN ISLAND,00:00,5,TRUE
+779,Fast Food,Cummerata-Carroll,$,BROOKLYN,21:00,1,TRUE
+780,Desserts,Lakin Group,$$$,QUEENS,00:00,4,FALSE
+781,Italian,"Koss, Lebsack and Feil",$,MANHATTAN,16:00,4,FALSE
+782,Italian,Heidenreich-Keeling,$,MANHATTAN,15:00,5,TRUE
+783,Thai,Gislason-Goyette,$$,STATEN ISLAND,20:00,4,TRUE
+784,Japanese,Kling Group,$$$,STATEN ISLAND,01:00,0,TRUE
+785,Fast Food,Padberg LLC,$$,STATEN ISLAND,16:00,2,FALSE
+786,Breakfast,Dicki LLC,$$,BRONX,06:00,5,FALSE
+787,Chinese,Medhurst LLC,$$,QUEENS,05:00,1,FALSE
+788,Breakfast,"Lebsack, Bode and Bruen",$,QUEENS,04:00,3,TRUE
+789,Japanese,Bruen Group,$$,MANHATTAN,05:00,5,FALSE
+790,Chinese,"Ward, Oberbrunner and Howe",$,MANHATTAN,16:00,2,TRUE
+791,American,Tillman-Gerhold,$$$,BROOKLYN,14:00,0,FALSE
+792,Breakfast,Larson LLC,$$,BROOKLYN,02:00,3,FALSE
+793,Mexican,"Schowalter, Schuster and Will",$$,MANHATTAN,11:00,5,FALSE
+794,Vegan,Harber-Kassulke,$$$,BRONX,17:00,2,FALSE
+795,Mexican,Bernier-Smith,$,QUEENS,15:00,3,TRUE
+796,Vegan,"Kozey, Hessel and Purdy",$$$,QUEENS,03:00,1,TRUE
+797,Breakfast,"Stiedemann, Goldner and Hoeger",$$,BROOKLYN,06:00,1,TRUE
+798,Thai,"Hayes, Ebert and Towne",$$,BRONX,19:00,2,FALSE
+799,Italian,"Jast, Beer and Hirthe",$,BRONX,21:00,5,FALSE
+800,Fast Food,"Tremblay, Turner and Gaylord",$$$,BRONX,20:00,5,FALSE
+801,Japanese,"Gulgowski, Stracke and Brekke",$,MANHATTAN,19:00,0,FALSE
+802,Korean,Adams Group,$$,STATEN ISLAND,01:00,3,FALSE
+803,Mexican,Gaylord-Bins,$$,MANHATTAN,04:00,1,TRUE
+804,Mexican,Gorczany LLC,$$,BRONX,03:00,1,FALSE
+805,Korean,Dietrich-Cormier,$$$,MANHATTAN,13:00,0,TRUE
+806,Chinese,Gleason and Sons,$$$,STATEN ISLAND,05:00,1,FALSE
+807,Indian,Lesch Group,$$,BRONX,04:00,5,TRUE
+808,American,Davis-Turcotte,$$$,MANHATTAN,14:00,5,TRUE
+809,Fast Food,Klein LLC,$,QUEENS,08:00,0,TRUE
+810,Vegan,Kuhn Inc,$$$,BRONX,05:00,2,TRUE
+811,Korean,Lowe Group,$$$,STATEN ISLAND,21:00,3,TRUE
+812,Breakfast,Haag Inc,$$,STATEN ISLAND,07:00,4,FALSE
+813,Thai,"Wisoky, Purdy and Price",$,BROOKLYN,03:00,1,TRUE
+814,Italian,O'Kon and Sons,$$,BRONX,14:00,2,FALSE
+815,Thai,"Deckow, Reichert and Schowalter",$$$,QUEENS,18:00,0,TRUE
+816,Desserts,Ebert Group,$$,BROOKLYN,12:00,5,TRUE
+817,Vegan,"Mills, Jaskolski and Hand",$,BRONX,20:00,2,FALSE
+818,Vegan,"Kuhlman, Graham and Simonis",$$,BRONX,22:00,3,TRUE
+819,Thai,Murazik-Treutel,$,BRONX,20:00,4,FALSE
+820,Vegan,"Anderson, Zboncak and Runte",$,BRONX,06:00,4,TRUE
+821,Thai,Veum-Anderson,$$$,STATEN ISLAND,07:00,3,TRUE
+822,Japanese,Gusikowski Group,$$,QUEENS,06:00,0,TRUE
+823,Thai,Reichert-Hilll,$,STATEN ISLAND,01:00,1,TRUE
+824,Italian,"Abshire, Runolfsdottir and Olson",$$,MANHATTAN,04:00,4,FALSE
+825,Breakfast,Harris-Fisher,$,BROOKLYN,06:00,2,FALSE
+826,Desserts,Towne-Turcotte,$,BRONX,19:00,1,TRUE
+827,American,"Schmitt, Satterfield and Larkin",$,STATEN ISLAND,03:00,2,TRUE
+828,Chinese,"Wolff, Collins and Franecki",$$,BRONX,00:00,5,FALSE
+829,Korean,Schmidt-Padberg,$$,STATEN ISLAND,05:00,5,TRUE
+830,Fast Food,"Streich, Aufderhar and Pfannerstill",$,BRONX,14:00,4,FALSE
+831,American,Reynolds Group,$$$,MANHATTAN,20:00,2,FALSE
+832,Vegan,"Strosin, Yundt and O'Keefe",$$,BRONX,11:00,5,FALSE
+833,Japanese,Fay-Gerlach,$$,MANHATTAN,22:00,5,TRUE
+834,Breakfast,Nolan and Sons,$$$,BRONX,18:00,1,TRUE
+835,Thai,Anderson Group,$,STATEN ISLAND,14:00,5,TRUE
+836,Fast Food,"Lowe, Rohan and Bins",$$,MANHATTAN,17:00,4,TRUE
+837,Italian,"Hilpert, Bosco and O'Keefe",$,STATEN ISLAND,19:00,0,TRUE
+838,Korean,Fritsch LLC,$$,QUEENS,21:00,0,TRUE
+839,Mexican,Rolfson Group,$$$,BRONX,00:00,0,FALSE
+840,Vegan,"Lakin, Cummerata and Ebert",$,MANHATTAN,11:00,4,TRUE
+841,American,Osinski Inc,$$$,QUEENS,05:00,3,TRUE
+842,Italian,Hoppe-Ortiz,$$$,BRONX,23:00,3,TRUE
+843,Breakfast,"Brakus, Goldner and Kassulke",$,BROOKLYN,18:00,0,TRUE
+844,Fast Food,"O'Reilly, Blanda and Steuber",$,BROOKLYN,18:00,3,FALSE
+845,Indian,Kunde-Rippin,$$$,BRONX,01:00,1,TRUE
+846,Vegan,Zulauf and Sons,$$$,BRONX,11:00,5,FALSE
+847,Desserts,D'Amore-Emmerich,$,QUEENS,18:00,5,FALSE
+848,Desserts,"Walter, Hammes and Blanda",$$$,MANHATTAN,03:00,1,FALSE
+849,Mexican,"Okuneva, Daugherty and Corwin",$,STATEN ISLAND,21:00,2,TRUE
+850,Thai,"Hills, Baumbach and Schroeder",$$,MANHATTAN,10:00,4,TRUE
+851,Thai,"Hayes, Balistreri and Mills",$,MANHATTAN,09:00,2,FALSE
+852,Breakfast,"Kutch, Marks and Blanda",$$$,BRONX,19:00,0,TRUE
+853,Italian,Waelchi-Kub,$,BROOKLYN,10:00,2,TRUE
+854,Thai,Gerhold and Sons,$,QUEENS,17:00,0,FALSE
+855,Desserts,"Thompson, Abbott and Koepp",$,STATEN ISLAND,22:00,4,FALSE
+856,Fast Food,Bayer Group,$,BRONX,01:00,5,FALSE
+857,Mexican,Homenick-Johnston,$,BRONX,19:00,3,FALSE
+858,Italian,"Padberg, Kunze and Jerde",$,STATEN ISLAND,18:00,5,TRUE
+859,Italian,"Wisoky, Little and Daugherty",$$,QUEENS,02:00,2,TRUE
+860,Korean,Bayer-Barrows,$$$,BRONX,10:00,2,TRUE
+861,Fast Food,"Muller, McGlynn and Barrows",$,BRONX,15:00,2,FALSE
+862,Italian,Murphy-Padberg,$,MANHATTAN,15:00,0,TRUE
+863,Chinese,Bayer-Murray,$$$,BRONX,03:00,0,FALSE
+864,Desserts,Nicolas-O'Reilly,$,QUEENS,03:00,5,TRUE
+865,Breakfast,"Rutherford, Rosenbaum and Kunze",$$,QUEENS,16:00,5,FALSE
+866,Thai,Feest-Batz,$$$,BROOKLYN,12:00,5,FALSE
+867,Breakfast,"Waelchi, Schimmel and Satterfield",$,BRONX,20:00,5,FALSE
+868,Indian,Konopelski LLC,$$,QUEENS,12:00,4,TRUE
+869,Desserts,Beahan Group,$,BRONX,22:00,1,FALSE
+870,American,Ondricka-Upton,$$$,STATEN ISLAND,05:00,4,TRUE
+871,Fast Food,"Bartell, Abshire and McLaughlin",$,BROOKLYN,14:00,2,TRUE
+872,Italian,Shields Inc,$,BRONX,11:00,1,TRUE
+873,Italian,"Murazik, Skiles and Bayer",$,BRONX,20:00,5,TRUE
+874,Mexican,Ankunding-Satterfield,$$$,BROOKLYN,22:00,2,FALSE
+875,Desserts,"Langosh, Goyette and Mills",$$,BROOKLYN,03:00,4,FALSE
+876,Italian,"Douglas, Watsica and Feeney",$,QUEENS,06:00,0,FALSE
+877,Mexican,O'Kon Group,$$$,STATEN ISLAND,06:00,2,FALSE
+878,Fast Food,"Kihn, Wiza and Wolf",$$$,QUEENS,11:00,0,FALSE
+879,Desserts,Erdman-Kuvalis,$$$,BROOKLYN,21:00,0,FALSE
+880,Korean,Tromp Inc,$,MANHATTAN,15:00,4,TRUE
+881,Fast Food,Yundt LLC,$$$,QUEENS,11:00,4,TRUE
+882,Chinese,"Mayer, Purdy and Koch",$$$,QUEENS,13:00,5,TRUE
+883,Breakfast,Leffler and Sons,$,BRONX,06:00,3,TRUE
+884,Mexican,Kemmer Group,$,BROOKLYN,08:00,4,FALSE
+885,Korean,Schaefer-Ruecker,$,MANHATTAN,03:00,0,TRUE
+886,Mexican,Beatty-Wiza,$$,BROOKLYN,03:00,1,TRUE
+887,Mexican,Stiedemann-Bogisich,$$,STATEN ISLAND,04:00,1,TRUE
+888,Fast Food,"Towne, Purdy and Koch",$$$,STATEN ISLAND,01:00,4,FALSE
+889,Vegan,"Spencer, Langosh and Skiles",$,BRONX,21:00,0,TRUE
+890,Chinese,Batz and Sons,$$$,STATEN ISLAND,05:00,4,TRUE
+891,Indian,Ferry-Olson,$,BROOKLYN,21:00,2,TRUE
+892,Korean,Durgan and Sons,$$,QUEENS,05:00,1,TRUE
+893,Mexican,Abbott-Stark,$$,STATEN ISLAND,02:00,2,FALSE
+894,Korean,Koss-Dicki,$$$,BRONX,10:00,1,FALSE
+895,American,Schimmel-Murphy,$$,BRONX,05:00,1,TRUE
+896,American,Ullrich LLC,$,BRONX,23:00,5,TRUE
+897,American,Blick-Wisozk,$$$,STATEN ISLAND,12:00,4,FALSE
+898,Fast Food,"O'Reilly, Tremblay and Farrell",$,MANHATTAN,04:00,1,TRUE
+899,Fast Food,"Daugherty, Erdman and Ruecker",$,BROOKLYN,14:00,1,FALSE
+900,Vegan,"Stroman, Mayert and Gorczany",$,MANHATTAN,12:00,1,TRUE
+901,Mexican,Okuneva Inc,$,QUEENS,05:00,0,FALSE
+902,Italian,Ernser-Denesik,$$$,QUEENS,00:00,1,TRUE
+903,Fast Food,"Runte, VonRueden and Bartell",$$,MANHATTAN,14:00,2,TRUE
+904,Japanese,Weber and Sons,$,QUEENS,12:00,0,TRUE
+905,Breakfast,"Murphy, Towne and Altenwerth",$,MANHATTAN,09:00,1,FALSE
+906,Fast Food,Herzog-Heaney,$$$,BROOKLYN,08:00,0,FALSE
+907,American,Feest and Sons,$$,BRONX,22:00,5,TRUE
+908,Thai,Beatty-Murazik,$$,BRONX,22:00,4,FALSE
+909,Thai,Nolan Inc,$$,MANHATTAN,10:00,4,TRUE
+910,Chinese,Effertz-Tillman,$$$,BRONX,04:00,0,FALSE
+911,Breakfast,West-Ortiz,$,BRONX,00:00,0,FALSE
+912,Mexican,"Roob, Bruen and DuBuque",$,QUEENS,19:00,3,FALSE
+913,Fast Food,"Gaylord, Erdman and Medhurst",$$,QUEENS,01:00,5,FALSE
+914,Korean,"Bode, Huels and Dare",$$,STATEN ISLAND,12:00,1,TRUE
+915,Mexican,Wilderman LLC,$,BROOKLYN,15:00,1,TRUE
+916,Japanese,"Conn, Schowalter and Mosciski",$,MANHATTAN,11:00,3,FALSE
+917,Breakfast,Ebert-Wolf,$$$,STATEN ISLAND,00:00,3,TRUE
+918,Chinese,Mraz and Sons,$$,BRONX,14:00,4,FALSE
+919,Breakfast,McLaughlin and Sons,$$,QUEENS,10:00,3,TRUE
+920,Indian,Stanton-Kiehn,$,QUEENS,16:00,5,TRUE
+921,Chinese,MacGyver Group,$$$,QUEENS,06:00,2,FALSE
+922,Mexican,Hermann-Rosenbaum,$,QUEENS,12:00,2,TRUE
+923,Fast Food,"Kreiger, Cremin and Gorczany",$$$,BROOKLYN,04:00,5,TRUE
+924,Thai,Wilkinson and Sons,$,BROOKLYN,18:00,5,TRUE
+925,Desserts,Metz-Balistreri,$$$,BROOKLYN,23:00,4,FALSE
+926,Thai,"Howell, Hudson and Smitham",$$,BROOKLYN,08:00,0,TRUE
+927,Korean,Boyle-Douglas,$$,MANHATTAN,20:00,2,FALSE
+928,Indian,"Lueilwitz, Funk and Kiehn",$$,MANHATTAN,05:00,4,TRUE
+929,Fast Food,Zemlak Inc,$$$,QUEENS,10:00,0,FALSE
+930,Thai,Kautzer-Friesen,$,BRONX,14:00,5,TRUE
+931,Vegan,"Kassulke, O'Conner and Pacocha",$$,BRONX,23:00,5,TRUE
+932,Chinese,Schuster-Gulgowski,$,QUEENS,14:00,4,TRUE
+933,Indian,Hagenes-Homenick,$,BRONX,17:00,3,TRUE
+934,Vegan,Graham Group,$,STATEN ISLAND,11:00,0,FALSE
+935,Thai,Keebler Inc,$$,BRONX,05:00,5,TRUE
+936,Japanese,Streich LLC,$$,STATEN ISLAND,14:00,1,TRUE
+937,Vegan,Howe and Sons,$,QUEENS,08:00,1,TRUE
+938,Mexican,Connelly Group,$$$,QUEENS,19:00,1,FALSE
+939,Chinese,Pfeffer Inc,$,STATEN ISLAND,15:00,4,TRUE
+940,Chinese,Swaniawski-Boyle,$$,STATEN ISLAND,13:00,4,FALSE
+941,Breakfast,Cormier LLC,$,BRONX,03:00,1,FALSE
+942,Chinese,Lowe LLC,$$$,BRONX,15:00,4,TRUE
+943,Indian,Ondricka-Ondricka,$,MANHATTAN,11:00,0,FALSE
+944,Desserts,Rogahn-Gleichner,$,BRONX,19:00,0,FALSE
+945,Italian,Schumm-Wiegand,$$,QUEENS,22:00,5,TRUE
+946,Vegan,"Thiel, Leffler and Hauck",$$$,STATEN ISLAND,03:00,4,FALSE
+947,Desserts,Smith-Daugherty,$$$,BROOKLYN,18:00,1,TRUE
+948,Fast Food,Stoltenberg-Hilll,$$$,QUEENS,07:00,1,FALSE
+949,Chinese,Thiel-Fahey,$$$,QUEENS,19:00,2,FALSE
+950,American,Okuneva-Schinner,$$,BROOKLYN,15:00,0,TRUE
+951,American,Robel and Sons,$$,BROOKLYN,23:00,4,FALSE
+952,Indian,"Kautzer, Leffler and Waelchi",$,BROOKLYN,02:00,1,TRUE
+953,Italian,Stoltenberg-Wilderman,$,MANHATTAN,08:00,2,FALSE
+954,Desserts,Mosciski LLC,$,BRONX,16:00,0,FALSE
+955,Thai,Bogan Inc,$$,QUEENS,20:00,4,TRUE
+956,Vegan,"Parisian, Ruecker and Corkery",$,BRONX,01:00,1,TRUE
+957,Desserts,Moore-Crona,$$,BROOKLYN,16:00,3,TRUE
+958,Chinese,Auer-Kerluke,$,BRONX,01:00,2,TRUE
+959,American,Swift-Pacocha,$,STATEN ISLAND,19:00,4,TRUE
+960,Japanese,Kshlerin and Sons,$$,MANHATTAN,23:00,2,TRUE
+961,Japanese,Hyatt-Wiegand,$$,MANHATTAN,20:00,0,TRUE
+962,American,Torp-Haag,$,STATEN ISLAND,08:00,3,TRUE
+963,Indian,Monahan Group,$$,QUEENS,00:00,1,FALSE
+964,Mexican,Schumm-Pacocha,$$$,BRONX,13:00,4,TRUE
+965,Indian,Gislason-Bartell,$,QUEENS,08:00,3,TRUE
+966,Chinese,"Jaskolski, Keebler and Rohan",$,BRONX,05:00,2,TRUE
+967,Desserts,Marvin-Ledner,$$,MANHATTAN,06:00,1,FALSE
+968,Chinese,O'Connell Group,$,BRONX,14:00,2,FALSE
+969,Desserts,Denesik Inc,$$,BROOKLYN,20:00,2,FALSE
+970,Vegan,"Prosacco, O'Conner and Rempel",$$$,MANHATTAN,08:00,0,FALSE
+971,Mexican,Wolff Inc,$,QUEENS,03:00,2,TRUE
+972,Vegan,Morissette-Bailey,$,QUEENS,19:00,4,FALSE
+973,Mexican,Hagenes-Ritchie,$$,BRONX,18:00,5,TRUE
+974,Fast Food,"Wehner, Gleason and O'Keefe",$$,MANHATTAN,08:00,2,FALSE
+975,Fast Food,Brakus-Block,$$$,QUEENS,05:00,3,FALSE
+976,Japanese,"Kuhic, Kohler and Considine",$$$,MANHATTAN,06:00,2,TRUE
+977,Italian,"Stehr, Dietrich and Streich",$$,MANHATTAN,13:00,2,FALSE
+978,Mexican,Legros and Sons,$$$,MANHATTAN,19:00,4,FALSE
+979,Fast Food,Osinski Inc,$$,QUEENS,13:00,5,TRUE
+980,Fast Food,"Maggio, Gleason and Hand",$$,BROOKLYN,18:00,3,TRUE
+981,Indian,"Ortiz, Weimann and Gaylord",$$$,MANHATTAN,12:00,0,TRUE
+982,Desserts,Cruickshank-Welch,$$,BRONX,19:00,1,FALSE
+983,Mexican,Towne-Kessler,$,STATEN ISLAND,02:00,4,FALSE
+984,Vegan,"Leuschke, Hermann and Padberg",$$$,STATEN ISLAND,15:00,5,TRUE
+985,Korean,"Hodkiewicz, Towne and Quitzon",$,BRONX,05:00,5,TRUE
+986,Korean,Blick-Sawayn,$$,BRONX,21:00,0,TRUE
+987,Korean,Cronin Group,$,QUEENS,12:00,3,TRUE
+988,Chinese,Mertz and Sons,$$$,BROOKLYN,15:00,0,TRUE
+989,Vegan,Pagac-Hegmann,$$$,BRONX,15:00,1,TRUE
+990,Breakfast,"Spinka, Mitchell and Goodwin",$$,BROOKLYN,02:00,1,TRUE
+991,Desserts,Mohr Inc,$,STATEN ISLAND,17:00,5,FALSE
+992,Fast Food,Kuhn-Bode,$$$,BRONX,23:00,4,TRUE
+993,Vegan,Hauck Group,$$,QUEENS,19:00,1,TRUE
+994,Vegan,O'Kon and Sons,$$,STATEN ISLAND,04:00,1,FALSE
+995,Mexican,"Harber, Luettgen and Bergnaum",$$,BRONX,06:00,3,FALSE
+996,Desserts,Cummerata and Sons,$,MANHATTAN,22:00,4,FALSE
+997,Breakfast,"Walker, Kuphal and Hilpert",$$$,MANHATTAN,20:00,0,FALSE
+998,Thai,"Howell, Champlin and Ryan",$$$,STATEN ISLAND,08:00,5,TRUE
+999,American,Jacobson-Rath,$,BRONX,20:00,0,FALSE
+1000,Breakfast,Adams LLC,$,MANHATTAN,20:00,2,TRUE
