@@ -145,6 +145,8 @@ I then used the following code snippet to insert the CSV properly into the actua
     DROP TABLE temp_user;
     DROP TABLE temp_posts;
 
+NOTE: There seems to be an issue with the [Posts CSV file](data/posts.csv) that automatically converts the date and time into the M/D/YY and H:MM format when opened using Excel. When referencing the commands above, please make sure to see if the CSV file has the date properly formatted in a text editor as follows: YYYY-MM-DD HH:MM:SS
+
 ### Answering the queries:
 
 1. Register a new User.
