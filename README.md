@@ -60,16 +60,26 @@ I then used the following code snippet to insert the CSV properly into the actua
 ### Answering the queries:
 
 1. Find all cheap restaurants in a particular neighborhood (pick any neighborhood as an example).
+        
         select * from restaurants where price_tier = '$' and neighborhood = 'MANHATTAN';
+        
 2. Find all restaurants in a particular genre (pick any genre as an example) with 3 stars or more, ordered by the number of stars in descending order.
+        
         select * from restaurants where price_tier = '$' and average_rating>2 order by average_rating desc;
+        
 3. Find all restaurants that are open now (see hint below).
+        
         select * from restaurants where cast(opening_hours as INT)  = cast(strftime('%H', 'now') as INT);
+
 4. Leave a review for a restaurant (pick any restaurant as an example).
+        
         insert into reviews (rest_id, reviews) values (18, "This sucks");
 5. Delete all restaurants that are not good for kids.
+        
         delete from restaurants where good_for_kids = "FALSE";
+
 6. Find the number of restaurants in each NYC neighborhood.
+        
         select neighborhood, count(neighborhood) from restaurants group by neighborhood;
 
 ## Part 2: Social Media
